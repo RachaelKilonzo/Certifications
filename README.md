@@ -9,7 +9,7 @@ Certificates, Badges, Projects and Assignments that are part of my data Science 
 
 
 ## Hypothesis Driven Approach
-**Random Timeline
+**September 26, 2024**
 ## Badge and Certificate
 | ![Badge](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/hda-problem-solving-public-health_open_badge.png) | ![Certificate](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/hda-problem-solving-public-health_RecordOfAchievement-1.png) |
 |------------------------|------------------------|
