@@ -14,3 +14,9 @@ Certificates, Badges, Projects and Assignments that are part of my data Science 
 **September 26, 2024**
 | ![Badge](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/hda-problem-solving-public-health_open_badge.png) | ![Certificate](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/Hypothesis-driven%20approach.png) |
 |------------------------|------------------------|
+
+### Health and Inequality Monitoring Foundations
+#### Overview
+**September 27, 2024**
+| ![Badge](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/Health-Inequality%20%3D%20Overview%20Badge.png) | ![Certificate](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/Health-Inequality%20%3D%20Overview.png) |
+|------------------------|------------------------|
