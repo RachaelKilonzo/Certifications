@@ -23,5 +23,5 @@ Certificates, Badges, Projects and Assignments that are part of my data Science 
 
 ## 3. Project Management
 ### Agile Project Management
-**September 29/09/2024**
+**September 29, 2024**
 ![Certificate](https://github.com/RachaelKilonzo/Certifications/blob/main/PROJECT%20MANAGEMENT/Agile%20Project%20Management.png)
