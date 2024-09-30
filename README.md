@@ -20,3 +20,8 @@ Certificates, Badges, Projects and Assignments that are part of my data Science 
 **September 27, 2024**
 | ![Badge](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/Health-Inequality%20%3D%20Overview%20Badge.png) | ![Certificate](https://github.com/RachaelKilonzo/Certifications/blob/main/WHO/Health-Inequality%20%3D%20Overview.png) |
 |------------------------|------------------------|
+
+## 3. Project Management
+### Agile Project Management
+**September 29/09/2024**
+![Certificate](https://github.com/RachaelKilonzo/Certifications/blob/main/PROJECT%20MANAGEMENT/Agile%20Project%20Management.png)
